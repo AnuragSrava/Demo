@@ -1,4 +1,4 @@
 # Demo
 This is my first Get Repository.
 <br>
-Author - Anurag Sarva
+Author - Anurag Sarva(Yash)
